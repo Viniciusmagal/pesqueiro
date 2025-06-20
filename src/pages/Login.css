@@ -1,0 +1,19 @@
+.gradient-custom-2 {
+  background: linear-gradient(to right, rgb(20, 137, 125), rgb(15, 100, 90));
+}
+
+.btn-custom {
+  background-color: rgb(20, 137, 125);
+  color: white;
+  font-weight: bold;
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+.btn-custom:hover {
+  background-color: rgb(15, 100, 90);
+}
+
+.logo-img {
+  width: 160px;
+}

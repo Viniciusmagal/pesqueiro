@@ -1,0 +1,22 @@
+{
+  "name": "pesqueiro-react",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "@vitejs/plugin-react": "^4.5.2",
+    "bootstrap": "^5.3.0",
+    "bootstrap-icons": "^1.10.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
